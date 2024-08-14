@@ -23,8 +23,6 @@
   - Building server-side applications with Nodejs, a powerful Javascript web framework.
   - Diving into MySQL for efficient and scalable database management.
 
-## 🏆 Achievements
-
 ## 📬 Get in Touch
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
