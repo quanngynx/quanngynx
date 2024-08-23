@@ -4,13 +4,6 @@
 
 ![LOQ-burh's Stats](https://github-readme-stats.vercel.app/api?username=LOQ-burh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 About Me
-
-- 🔭 
-- 📝 
-- 🌐 
-- ✍️ 
-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,mysql,mongodb,angular,react,graphql,nodejs,dotnet,cpp)](https://skillicons.dev)
 
