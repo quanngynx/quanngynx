@@ -7,9 +7,10 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a align="center" href="https://www.facebook.com/t.t.t4t"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=41C375&width=435&lines=Coder++%2F+Developer;Web+Developer;%F0%9F%94%A5Foward+to+Full-Stack+Developer" alt="Typing SVG" /></a>
 </h1>
 
-
-![LOQ-burh's Stats](https://github-readme-stats.vercel.app/api?username=LOQ-burh&theme=catppuccin-macchiato&show_icons=true&hide_border=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=d4tdev&theme=catppuccin-macchiato)
+<div align="center">
+  <img height="212em" src="https://gh-readme-profile.vercel.app/api?username=LOQ-burh&theme=sunset-gradient">
+  <img height="212em" src="https://streak-stats.demolab.com?user=LOQ-burh&theme=sunset-gradient" alt="GitHub Streak" />
+</div>
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,mysql,mongodb,angular,react,graphql,nodejs,dotnet,cpp)](https://skillicons.dev)
