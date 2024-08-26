@@ -8,8 +8,8 @@
 </h1>
 
 <div align="center">
-  <img height="212em" src="https://gh-readme-profile.vercel.app/api?username=LOQ-burh&theme=sunset-gradient">
-  <img height="212em" src="https://streak-stats.demolab.com?user=LOQ-burh&theme=sunset-gradient" alt="GitHub Streak" />
+  <img height="190em" src="https://gh-readme-profile.vercel.app/api?username=LOQ-burh&theme=sunset-gradient">
+  <img height="190em" src="https://streak-stats.demolab.com?user=LOQ-burh&theme=sunset-gradient" alt="GitHub Streak" />
 </div>
 
 ## Tech Stack
