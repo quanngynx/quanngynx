@@ -13,7 +13,7 @@
 </div>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,mysql,mongodb,angular,react,graphql,nodejs,dotnet,cpp,figma,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,mysql,mongodb,angular,react,graphql,nodejs,dotnet,cpp,figma,stackoverflow,aws)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
