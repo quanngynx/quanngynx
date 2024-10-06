@@ -21,7 +21,7 @@
 ## My wifu
 
 <p align="center">
-  <a href="https://www.facebook.com/mih.kuanUT"><img src="https://drive.google.com/thumbnail?id=1-LZXf3ung9nUF40-elhqmn7CSQbvi7d0&sz=w1000"></a>
+  <a href="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif"><img src="https://drive.google.com/thumbnail?id=1-LZXf3ung9nUF40-elhqmn7CSQbvi7d0&sz=w1000"></a>
 </p>
 
 [![](https://komarev.com/ghpvc/?username=LOQ-burh&color=brightgreen&style=plastic)](https://github.com/LOQ-burh)
