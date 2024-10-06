@@ -24,6 +24,8 @@
   <a href="https://www.facebook.com/mih.kuanUT"><img src="https://drive.google.com/thumbnail?id=1-LZXf3ung9nUF40-elhqmn7CSQbvi7d0&sz=w1000"></a>
 </p>
 
+[![](https://komarev.com/ghpvc/?username=LOQ-burh&color=brightgreen&style=plastic)](https://github.com/LOQ-burh)
+
 ## 📬 Get in Touch
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
