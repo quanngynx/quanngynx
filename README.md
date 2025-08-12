@@ -10,11 +10,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=5001&pause=1000&color=CE4257&center=true&vCenter=true&width=480&lines=Coder+%2F+Developer;Forward+to+full-stack+dev;Go+further+by+becoming+a+solution+architect;Or+project+manager;Reach+me+via+email+or+facebook!" alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
-  <img height="170em" src="https://gh-readme-profile.vercel.app/api?username=LOQ-burh&theme=sunset-gradient">
-  <img height="170em" src="https://streak-stats.demolab.com?user=LOQ-burh&theme=sunset-gradient" alt="GitHub Streak" />
-</div>
-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,mysql,mongodb,angular,react,graphql,nodejs,dotnet,cpp,figma,stackoverflow,aws)](https://skillicons.dev)
 
