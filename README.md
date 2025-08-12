@@ -11,7 +11,7 @@
 </p>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,mysql,mongodb,angular,react,graphql,nodejs,dotnet,cpp,figma,stackoverflow,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,mysql,mongodb,postgres,redis,react,graphql,nextjs,nodejs,nestjs,express,flutter,cpp,dart,figma,stackoverflow,aws,cloudflare,firebase)](https://skillicons.dev)
 
 ## My wifu
 
