@@ -13,12 +13,6 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,dart,go,html,css,sass,tailwind,mysql,mongodb,postgres,redis,react,graphql,nextjs,nodejs,nestjs,express,flutter,figma,stackoverflow,aws,cloudflare,firebase)](https://skillicons.dev)
 
-## My wifu
-
-<p align="center">
-  <a href="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif"><img src="https://drive.google.com/thumbnail?id=1-LZXf3ung9nUF40-elhqmn7CSQbvi7d0&sz=w1000"></a>
-</p>
-
 [![](https://komarev.com/ghpvc/?username=LOQ-burh&color=brightgreen&style=plastic)](https://github.com/LOQ-burh)
 
 ## 📬 Get in Touch
