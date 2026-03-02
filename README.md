@@ -11,7 +11,7 @@
 </p>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,dart,go,html,css,sass,tailwind,mysql,mongodb,postgres,redis,react,graphql,nextjs,nodejs,nestjs,express,flutter,figma,stackoverflow,aws,cloudflare,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,dart,go,html,css,sass,tailwind,mysql,mongodb,postgres,redis,react,svelte,graphql,nextjs,nodejs,nestjs,express,flutter,figma,stackoverflow,aws,cloudflare,firebase)](https://skillicons.dev)
 
 [![](https://komarev.com/ghpvc/?username=LOQ-burh&color=brightgreen&style=plastic)](https://github.com/LOQ-burh)
 
